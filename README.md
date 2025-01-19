@@ -8,7 +8,7 @@ Experience the system firsthand by visiting our live demo:
 
 [Data Analysis System Live Demo](https://lovely-hamster-9a161c.netlify.app/)
 
-## 🌟 Features
+## 🛠️ Features
 
 - **Data Import & Export**: Easily import data from various sources (CSV, Excel, JSON) and export your results seamlessly.
 - **Data Cleaning**: Utilize built-in utilities to preprocess and clean raw data, ensuring accuracy and reliability.
@@ -16,6 +16,13 @@ Experience the system firsthand by visiting our live demo:
 - **Scalability**: Handle large datasets efficiently, enabling real-time analysis without compromising performance.
 
 ## 🚀 Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Node.js**: A JavaScript runtime environment. Download it from [nodejs.org](https://nodejs.org/).
+- **Git**: Version control system for managing code. Install it from [git-scm.com](https://git-scm.com/).
 
 ### 1. Clone the Repository
 
@@ -28,7 +35,7 @@ cd Data-Analysis-System
 
 ### 2. Install Dependencies
 
-Ensure you have [Node.js](https://nodejs.org/) installed. Then, install the required libraries:
+Install the required libraries:
 
 ```bash
 npm install
@@ -64,12 +71,6 @@ For detailed instructions and examples, refer to the [User Guide](docs/user_guid
 - **React.js**: For building the user interface.
 - **Jest**: For unit testing and ensuring code reliability.
 
-## 📚 Documentation
-
-Comprehensive documentation is available to guide you through the system's features and functionalities:
-
-- User Guide: Step-by-step instructions on using the system.
-- API Reference: Detailed information on the system's API endpoints.
 
 ## 🤝 Contributing
 
@@ -84,7 +85,6 @@ We welcome contributions to enhance the Data Analysis System. To contribute:
 Please refer to the [Contributing Guidelines](docs/contributing.md) for more details.
 
 
-
 ## 📧 Contact
 
 For inquiries or support:
@@ -96,3 +96,6 @@ For inquiries or support:
 
 We extend our gratitude to the open-source community for their invaluable contributions, which have been instrumental in the development of this system.
 
+---
+
+This README provides a comprehensive overview of the Data Analysis System, highlighting its features, technologies, and how users can get started. It also offers guidance on contributing to the project and accessing detailed documentation. 
