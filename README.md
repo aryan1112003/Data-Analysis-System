@@ -67,7 +67,6 @@ For detailed instructions and examples, refer to the [User Guide](docs/user_guid
 - **JavaScript (ES6+)**: The core programming language for the system.
 - **Node.js**: For server-side operations and backend logic.
 - **Express.js**: For building the RESTful API.
-- **MongoDB**: For database management and storage.
 - **React.js**: For building the user interface.
 - **Jest**: For unit testing and ensuring code reliability.
 
