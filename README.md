@@ -84,9 +84,7 @@ We welcome contributions to enhance the Data Analysis System. To contribute:
 
 Please refer to the [Contributing Guidelines](docs/contributing.md) for more details.
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## 📧 Contact
 
