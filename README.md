@@ -68,9 +68,8 @@ For detailed instructions and examples, refer to the [User Guide](docs/user_guid
 
 Comprehensive documentation is available to guide you through the system's features and functionalities:
 
-- [User Guide](docs/user_guide.md): Step-by-step instructions on using the system.
-- [API Reference](docs/api_reference.md): Detailed information on the system's API endpoints.
-- [Contributing Guidelines](docs/contributing.md): How you can contribute to the project.
+- User Guide: Step-by-step instructions on using the system.
+- API Reference: Detailed information on the system's API endpoints.
 
 ## 🤝 Contributing
 
